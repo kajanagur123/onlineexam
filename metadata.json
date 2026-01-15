@@ -1,0 +1,7 @@
+{
+  "name": "EduQuest Online Examination System",
+  "description": "A comprehensive examination platform featuring administrative student and exam management, a secure student portal with a built-in scientific calculator, auto-evaluation, and detailed result publishing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
